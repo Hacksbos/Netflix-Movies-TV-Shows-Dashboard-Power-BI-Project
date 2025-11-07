@@ -56,6 +56,8 @@ The goal of this project is to transform raw Excel data into an interactive dash
 
 ![Netflix Dashboard](Netflix%20Dashboard.jpg)
 
+
+
 *(You can replace this image with a higher-resolution screenshot if desired.)*
 
 ---
