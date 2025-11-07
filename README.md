@@ -52,13 +52,13 @@ The goal of this project is to transform raw Excel data into an interactive dash
 
 ## 🖼️ Dashboard Preview
 
-> Enhanced preview of the Power BI dashboard
+>Power BI dashboard 
 
-![Netflix Dashboard](Netflix%20Dashboard.jpg)
+![Netflix Dashboard](Screenshot%202025-11-07%20161906.png)
 
 
 
-*(You can replace this image with a higher-resolution screenshot if desired.)*
+
 
 ---
 
